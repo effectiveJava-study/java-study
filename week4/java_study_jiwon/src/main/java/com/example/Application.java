@@ -7,7 +7,7 @@ import java.util.*;
 
 public class Application {
 
-    public final String token = "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";
+    public final String token = "github_token";
     private GitHub github;
 
     public static void main(String[] args) {
